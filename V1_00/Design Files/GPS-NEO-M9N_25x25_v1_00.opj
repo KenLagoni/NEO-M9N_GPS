@@ -1,0 +1,212 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[05/11/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\gps-neo-m9n_25x25_v1_00.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\gps-neo-m9n_25x25_v1_00.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\rc-tranponderv12.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "NEITHER")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Board_sim_option "VHDL_flow")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "C:\Users\klo\Documents\BOM.bom")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Manufacturer}\t{Manufacturer PN}\t{FarnellPartNumber}\t{FarnellPrice(dkr)}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\tPCB\tManufacturer\tManufacturer PN\tFarnell Part Number\tFarnell Price")
+    (BOM_Include_File
+       "C:\USERS\KLO\DESKTOP\CLOUDSTATION\NFK\TRANSPONDERRC-MICRO\TRANSPONDERRC-11.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    ("Allegro Netlist Input Board File" "allegro\RC-TranponderV12.brd")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (IREFReportFile "C:\Users\klo\Desktop\teset.csv")
+    (IREFViewOutput "0"))
+  (Folder "Layout"
+    (File ".\allegro\autosave.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\autosave.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\autosave.brd,1"
+      (OutputBoard ".\allegro\autosave.brd,1")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")
+      (DisplayName
+         "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\autosave.brd,1")
+      (Type "Board File"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\autosave.brd,2"
+      (OutputBoard ".\allegro\autosave.brd,2")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")
+      (DisplayName
+         "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\autosave.brd,2")
+      (Type "Board File"))
+    (File ".\allegro\gps-neo-m9nv10.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps-neo-m9nv10.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\gps-neo-m9n_25x25_v10.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\gps-neo-m9n_25x25_v10.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro-std\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro-std\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File
+       "\\192.168.0.3\HOME\CLOUDSTATION\MODELFLYVNING\CUSTOM GPS\V1\allegro-std\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\design files\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\design files\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\design files\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGE_OUT_R
+      (LibraryName "D:\DOCS\CADENCE\SCHLIB\DIDISYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (1.3V
+      (LibraryName
+         "D:\ADI\INTEL\COYANOSA\HARDWARE\WORKING\R120\INTEL_LRH_LIB.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\gps-neo-m9n_25x25_v1_00.dsn")
+      (Path "Design Resources" ".\gps-neo-m9n_25x25_v1_00.dsn" "Topsheet")
+      (Path "Layout")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 779"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 797")
+        (Scroll "-298 -2")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KLO\DOCUMENTS\NEO-M9N GPS\V1_00\DESIGN FILES\GPS-NEO-M9N_25X25_V1_00.DSN")
+      (Schematic "Topsheet")
+      (Page "01_History"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 797")
+        (Scroll "-298 -2")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KLO\DOCUMENTS\NEO-M9N GPS\V1_00\DESIGN FILES\GPS-NEO-M9N_25X25_V1_00.DSN")
+      (Schematic "Topsheet")
+      (Page "02_GPS")))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "klo")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))

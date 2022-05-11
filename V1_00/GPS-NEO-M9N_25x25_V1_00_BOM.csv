@@ -1,0 +1,23 @@
+﻿"History  Revised: Wednesday, Feb 02, 2022",,,,,,,,,
+GPS NEO-M9N          Revision: 10,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Bill Of Materials,Page1,,,,,,,,
+,,,,,,,,,
+Item,Quantity,Reference,Part,PCB,Manufacturer,Manufacturer PN,Farnell Part Number,Farnell Price (DKK),
+______________________________________________,,,,,,,,,
+,,,,,,,,,
+1,2,"C1,C3",100uF/6V3,r_0805,Generic,"100uF, 0805, 6V3, 20%",2494476,6.35,12.7
+2,3,"C2,C5,C7",100nF,r_0402,Generic,"100nF, 0402, 16V 20%",2524679,0.26,0.78
+3,1,C4,1uF,r_0402,Generic,"1uF, 0402, 16V 20%",2821149,0.437,0.437
+4,1,C6,180pF,r_0805,Johanson Technology,251R15S181JV4E,1885453,2.36,2.36
+5,1,J1,4x1_1.25mm Molex Picoblade,r_conn_molex53261-4P-1_25H,Molex,53261-0471,1125374,3.98,3.98
+6,1,L1,6.8nH,r_0402,MURATA,LQG15HN6N8J02D,1343077,0.416,0.416
+7,1,U1,UBLOX NEO-M9N,r_ublox_neo,UBLOX,NEO-M9N-00B,Mouser (377-NEO-M9N-00B),191.61,191.61
+8,1,U2,APARM2504 25x25x4mm RHCP,l_gps_APARM2504_25x25x4,ABRACON,APARM2504-SG3,3228317,29.61,29.61
+9,1,U3,LDLN025M33R,r_sot23-5pin,ST,LDLN025M33R,2851941,5.36,5.36

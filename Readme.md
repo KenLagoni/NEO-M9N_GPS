@@ -19,12 +19,13 @@ Each GPS was mounted in each wing of my AR-Wing Pro and connected to the FC.
 ![Ground test](images/testsetup1_M9NvsM8N.png)
 
 ---
-**GPS Config**
-05/05/2022 08.59.36 : u-blox 1 HW: 00080000 SW: ROM CORE 3.01 (107888)
-05/05/2022 08.59.34 : GPS: u-blox 1 saving config
-05/05/2022 08.59.34 : u-blox 2 HW: 00190000 SW: EXT CORE 4.04 (7f89f7)
-05/05/2022 08.59.20 : GPS 2: detected as u-blox at 230400 baud
+**GPS Config**\
+05/05/2022 08.59.36 : u-blox 1 HW: 00080000 SW: ROM CORE 3.01 (107888)\
+05/05/2022 08.59.34 : GPS: u-blox 1 saving config\
+05/05/2022 08.59.34 : u-blox 2 HW: 00190000 SW: EXT CORE 4.04 (7f89f7)\
+05/05/2022 08.59.20 : GPS 2: detected as u-blox at 230400 baud\
 05/05/2022 08.59.20 : GPS 1: detected as u-blox at 230400 baud
+
 ---
 
 The Wing was placed on the dashboard of my car while I drove around. The results are:\

@@ -34,6 +34,15 @@ The Wing was placed on the dashboard of my car while I drove around. The results
 
 ### Conclusion (Ground test)
 The M9N with the bigger antenna and power filter out performs the M8N.
+
+## Flight test NEO-M9N 25x25mm
+The following plane was used for the test:
+![GPS overview](images/flighttestsetup1.png)
+
+### Conclusion (flight test)
+Again the M9N performed really well. Number of satellites around 27 and a Hdop around 0.6.
+
+![GPS overview](images/flight_testresults.png)
  
 # Revision
 Version V1.00 - First Release.
